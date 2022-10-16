@@ -1,0 +1,9 @@
+<!--pages/contact/contact.wxml-->
+<rich-text nodes="<h2 style='color:black;'>————联系我们吧！————</h2>"></rich-text>
+<text selectable>\n 邮箱📬 :1498002690@qq.com</text>
+<text selectable>\n 电话📞 :13231007635</text>
+<text>\n</text>
+<text>`````````````````````````本地生活 享我所想`````````````````````````</text>
+<text>\n</text>
+<text>\n</text>
+<button type="primary" bindtap="goback">返回首页</button>

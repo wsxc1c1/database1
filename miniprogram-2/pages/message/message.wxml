@@ -1,0 +1,8 @@
+<!--pages/message/message.wxml-->
+
+<text>\n</text>
+<text>\n</text>
+<text>`````````````````````````本地生活 享我所想`````````````````````````</text>
+<text>\n</text>
+<text>\n</text>
+<button type="primary" bindtap="goback">返回首页</button>
